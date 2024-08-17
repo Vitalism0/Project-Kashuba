@@ -1,0 +1,2 @@
+/docs — Dokumentacja projektowa, w tym specyfikacje, instrukcje
+użytkownika i inne ważne dokumenty.
